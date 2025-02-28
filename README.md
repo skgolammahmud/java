@@ -1,5 +1,5 @@
 1. Features of Java:
-   i)    Platform independent
+   i)    Platform independent /n
    ii)   Object oriented
    iii)  Support web based application
    iv)   Robust
